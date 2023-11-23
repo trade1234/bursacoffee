@@ -49,6 +49,9 @@ h6 {
   border-radius: 4px;
   transition: all 0.4s;
 }
+.fst-italic{
+  text-align: justify;
+}
 
 .back-to-top i {
   font-size: 28px;
@@ -68,6 +71,15 @@ h6 {
   visibility: visible;
   opacity: 1;
 }
+.icon{
+  text-align: justify;
+}
+.row{
+  text-align: justify;
+}
+/* .img-fluid{
+  height: 60%;
+} */
 
 /*--------------------------------------------------------------
 # Preloader
